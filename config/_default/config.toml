@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://malwaremonster.github.io/"
+baseurl = "https://blog.malware.monster/"
 languageCode = "en-us"
 paginate = 5
 title = "Malikie Simpson"
