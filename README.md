@@ -1,2 +1,2 @@
-## https://blog.malware.monster/blog
-https://malwaremonster.github.io/blog
+## https://blog.malware.monster/
+
